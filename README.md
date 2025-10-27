@@ -10,5 +10,5 @@ Features :
 
 -> Simple and responsive user interface built with HTML, CSS, JavaScript and ReactJS.
 
-Try it out : jokes-generator-five-umber.vercel.app
+Try it out : https://jokes-generator-five-umber.vercel.app/
 
