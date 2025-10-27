@@ -8,7 +8,7 @@ Features :
 
 -> Supports different joke categories (e.g., general, programming, dad jokes).
 
--> Simple and responsive user interface built with HTML, CSS, and JavaScript.
+-> Simple and responsive user interface built with HTML, CSS, JavaScript and ReactJS.
 
 Try it out : jokes-generator-app-seven.vercel.app
 
