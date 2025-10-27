@@ -1,13 +1,12 @@
+import Joke from "./Joke";
 
-import React from 'react'
-import Joke from './Joke'
 function App() {
-  return (
-    <div className='App'>
-      <h1>Jokes Generator using React and Joke API</h1>
-      <Joke/>
-    </div>
-  )
+    return (
+        <div className="App">
+            <h1>Joke Generator Using React and Joke API</h1>
+            <Joke/>
+        </div>
+    );
 }
 
-export default App
+export default App;

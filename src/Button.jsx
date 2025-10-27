@@ -1,8 +1,11 @@
-import React from 'react'
+import React from "react";
 import './Button.css'
 
 const Button = (props) => {
-    return <button onClick={props.callApi}>Click to generate a joke</button>
+    return <button onClick={props.callApi}>
+        Click to generate a joke.
+    </button>;
 }
 
-export default Button
+// Export Button Component
+export default Button;
