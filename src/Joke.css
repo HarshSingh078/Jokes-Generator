@@ -4,7 +4,7 @@ body {
 
 .joke {
     height: auto;
-    width: auto;
+    width: 250px;
     margin: auto ;
     display: flex;
     flex-direction: column;
@@ -13,3 +13,21 @@ body {
     color: beige;
 }
 
+h1 {
+    text-align: center;
+    color: beige;
+}
+
+.fetchedjoke {
+    /* color: white; */
+    font-size: 17px;
+    display: flex;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.App1 {
+    height: 250px;
+    margin-top: 150px;
+}
